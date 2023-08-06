@@ -1,0 +1,1 @@
+RPUSH mylist "element4"

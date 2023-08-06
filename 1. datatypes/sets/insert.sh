@@ -1,0 +1,1 @@
+SADD myset "element1" "element2" "element3"

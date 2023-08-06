@@ -1,0 +1,1 @@
+HSET user name "John Doe"

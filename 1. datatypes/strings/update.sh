@@ -1,0 +1,1 @@
+SET clave1 "otro valor"

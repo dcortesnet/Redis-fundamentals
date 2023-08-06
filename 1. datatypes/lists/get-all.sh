@@ -1,0 +1,1 @@
+LRANGE mylist 0 -1
